@@ -13,7 +13,7 @@ A simple command-line tool written in Python to fetch and display a GitHub user'
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/jupelaz/github_activity
+   git clone https://github.com/jupelaz/github-activity
    cd github-activity
    ```
 
