@@ -2,6 +2,8 @@
 
 A simple command-line tool written in Python to fetch and display a GitHub user's recent activity using the GitHub API.
 
+This is created to comply with: https://roadmap.sh/projects/github-user-activity
+
 ## Features
 
 - Fetches recent activity for a specified GitHub user.
